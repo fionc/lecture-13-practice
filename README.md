@@ -6,4 +6,4 @@ My *favorite* candy is Snickers! My second favorite is red vines I also like:
 - M&M's
 - Chocolate chip cookies
 
-When I'm super hungry I like to eat Almond Joys.
+Sometimes I'm super hungry and like to eat Almond Joys.
