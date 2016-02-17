@@ -1,6 +1,6 @@
 # lecture-13-practice
 
-My *favorite* candy is gushers! I also like:
+My *favorite* candy is skittles! I also like:
 
 - Skittles
 - M&M's
