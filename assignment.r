@@ -1,4 +1,4 @@
-# some code
+# some code for practice
 # Create a vector "x" that has the values 10 through 20 in it (using the : operator)
 x <- 10:20
 
